@@ -20,7 +20,7 @@ public class User implements Serializable {
 
 //test
 	private static final long serialVersionUID = 1L;
-
+//test2
 	@Id
 	@GeneratedValue (strategy = GenerationType.IDENTITY)
 	private Long id;   
